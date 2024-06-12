@@ -1,0 +1,5 @@
+00
+1000
+500
+Ilosc wody w zbiorniku 0
+Ilosc wody w zbiorniku 1490 litrow

@@ -1,0 +1,3 @@
+C:/Users/ulaja/Zbiornik V2/cmake-build-debug/CMakeFiles/Zbiornik_V2.dir
+C:/Users/ulaja/Zbiornik V2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ulaja/Zbiornik V2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
